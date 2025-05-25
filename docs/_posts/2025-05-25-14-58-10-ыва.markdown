@@ -1,0 +1,12 @@
+---
+layout: post
+title: Ыва
+date: 2025-05-25 14:58:10
+comments: true
+published: true
+categories: ["post"]
+tags: ["superpage"]
+author: me
+modified_when: 2025-05-25T14:58:10.597089
+---
+Кварк 
