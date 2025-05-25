@@ -1,6 +1,6 @@
 name: Run Superpages action
 
-on:
+on: 
   schedule:
     - cron: '*/6 * * * *'
   workflow_dispatch:
